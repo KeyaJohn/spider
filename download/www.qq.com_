@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="baidu-site-verification" content="cNitg6enc2">
+<title>腾讯首页</title>
+
+<!-- 移动适配JS脚本 -->
+<script type="text/javascript">
+    if (window.location.toString().indexOf('pref=padindex') != -1) {
+    } else {
+        if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || /\(Android.*Mobile.+\).+Gecko.+Firefox/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+            if (window.location.href.indexOf("?mobile")<0){
+                try {
+                    if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                        window.location.href="https://xw.qq.com?f=qqcom";
+                    } else if (/iPad/i.test(navigator.userAgent)) {
+                        //window.location.href="http://www.qq.com/pad/"
+                    } else {
+                        window.location.href="http://xw.qq.com/simple/s/index/"
+                    }
+                } catch (e) {}
+            }
+        }
+    }
+</script><!--[if !IE]>|xGv00|6a478dd274c352466ec1a24404f6e978<![endif]-->
+<meta content="资讯,新闻,财经,房产,视频,NBA,科技,腾讯网,腾讯,QQ,Tencent" name="Keywords">
+<meta name="description" content="腾讯网从2003年创立至今，已经成为集新闻信息，区域垂直生活服务、社会化媒体资讯和产品为一体的互联网媒体平台。腾讯网下设新闻、科技、财经、娱乐、体育、汽车、时尚等多个频道，充分满足用户对不同类型资讯的需求。同时专注不同领域内容，打造精品栏目，并顺应技术发展趋势，推出网络直播等创新形式，改变了用户获取资讯的方式和习惯。" />
+<link rel="shortcut icon" href="//mat1.gtimg.com/www/icon/favicon2.ico"/>
+<link rel="stylesheet" type="text/css" charset="utf-8" href="//mat1.gtimg.com/www/qq_index/css/qq_abfe5917.css">
+<!--[if lte IE 6]>
+<style type="text/css">
+html,body{overflow-x:hidden;}
+.layoutBg{background:#000;opacity:0.3;filter:alpha(opacity=30);}
+#arealife{position:absolute;top:0;right:0;}
+#topNav{position:absolute;top:0;left:0;}
+#fankui{position:absolute;right:15px;bottom:222px;}
+#homeSet{position:absolute;right:15px;bottom:163px;}
+#toTop{position:absolute;right:15px;bottom:104px;}
+#minidown{position:absolute;right:15px;bottom:45px;}
+.videoFloat{position:absolute;}
+</style>
+<![endif]-->
+<link rel="stylesheet" href="//mat1.gtimg.com/www/css/qq2012/hot_word_sogou.css" media="all">
+<script type="text/javascript">var QosSS=new Object();QosSS.t=new Array([0,0,0]);QosSS.t[0]=(new Date()).getTime();</script>
+</head>
+<body>
+
+	<script type="text/javascript">
+	//捕获错误，防止阻塞代码执行
+	try{
+		(function () {
+			var imgErrArr = [];
+
+			//check if this img error appear twice
+			function checkImgErr(n) {
+				var item;
+				for (var i = 0, len = imgErrArr.length; i < len; i++) {
+					item = imgErrArr[i];
+					if (n == imgErrArr[i]) {
+						//console.log('error has appeared.');
+						return true;
+					}
+				}
+
+				return false;
+			}
+
+			if (document.body.addEventListener) {
+				document.body.addEventListener('error', function (e) {
+					var target = e.target;
+
+					//当新闻内容图片加载出现错误，并且非二次加载错误时，继续执行。target.id为附加条件，不检测有id的图片的错误，例如用户头像
+					if (!target || target.tagName.toUpperCase() != 'IMG' || target.id || checkImgErr(target)) return;
+
+					imgErrArr.push(target);
+					// console.log('error', target, target.width, target.height);
+					target.setAttribute('src', ['http://mat1.gtimg.com/www/images/qq2012/qq_theone', target.width, '_', target.height, '.png'].join(''));
+				}, true);
+			}
+		})();
+	}catch(e){}
+	</script>
+	<span id="guess">WWWQQCOM</span>
+	<!--QQ_takeove div AD begin...."l=QQ_takeove&log=off"-->
+<div id="QQ_takeover" class="l_qq_com" style="display:none;overflow:visible;"></div>
+<!--QQ_takeove AD end -->
+<!--[if !IE]>|xGv00|98a7d37d212a3323ef7474108a947b50<![endif]-->
+	
+	<div class="container">
+	<!--logo+搜索 开始-->
+	<div class="soso" id="soso">
+		<!-- qq logo -->
+		<a class="qqlogo" id="tencentlogo" bossZone="logo" target="_blank" href="//www.qq.com">
+    <img src="//mat1.gtimg.com/www/qq2018/imgs/qq_logo_2018x2.png" alt="腾讯网" />
+</a><!--[if !IE]>|xGv00|486532ec2ba93eef34753cf506abcbf5<![endif]-->
+
+		<!-- sogou 输入框模块 -->
+		<div class="search" id="sosobar" role="search" bossZone="search">
+    <form id="searchForm" method="get" name="soso_search_box" action="https://www.sogou.com/tx?hdq=sogou-wsse-3f7bcd0b3ea82268-0001&ie=utf-8&query=" target="_blank">
+        <div id="searchTxt" class="searchTxt" onmouseover="this.className='searchTxtHover';">
+            <div class="radius" style="top:-1px;"></div>
+            <div id="radiusLeftBottom" class="radius" style="top:35px;"></div>
+            <div class="searchMenu">
+                <div class="searchSelected" id="searchSelected">网页</div>
+                <div class="searchTab" id="searchTab">
+                    <div class="radius" style="top:259px;"></div>
+                    <div class="radius" style="top:259px;left:59px;"></div>
+                </div>
+            </div>
+            <input id="sougouTxt" type="text" value="" name="w" />
+            <input type="text" value="w.q.in.sb.web" style="display:none" name="cid" />
+            <a id="sogouLogoLink" href="https://www.sogou.com/?pid=sogou-wsse-3f7bcd0b3ea82268-0001" target="_blank" onclick="registerZone2({bossZone:'searchlogo',url:''},1);"><img id="sogouLogo" alt="搜狗" class="sosoLogo" src="//mat1.gtimg.com/www/images/qq2012/sogouSearchLogo20140629.png" style="width:23px;height:23px;" /></a>
+            <div class="searchSmart" id="searchSmart" style="display:none;">
+                <ul></ul>
+            </div>
+        </div>
+        <div class="searchBtn">
+            <button id="searchBtn" type="submit">搜狗</button>
+        </div>
+    </form>
+</div>
+<script type="text/javascript">
+    function sogouShow(){}
+    function sosoShow(){}
+</script><!--[if !IE]>|xGv00|9760085bc2cf56ee17135c8a081653fe<![endif]-->
+
+		<!-- sogou 登录模块 -->
+		<div class="loginGray" id="loginGray">
+			<div id="loginGrayIcon" class="fr">
+				<a target="_self" href="javascript:void(0)" class="login" id="loginGrayLayout" onclick="userLogin();" bossZone="onekey"></a>
+			</div>
+			<div id="mailGrayIcon" class="fr">
+				<a href="http://mail.qq.com" class="mail" target="_blank" bossZone="qmail"></a>
+			</div>
+			<div id="qzoneGrayIcon" class="fr">
+				<a href="http://qzone.qq.com" class="qzone" target="_blank" bossZone="qzone"></a>
+			</div>
+		</div>
+		<div class="loginGray undis" id="loginedGray">
+			<div id="loginGrayIconLogin" class="fr">
+				<a href="http://ilike.qq.com" class="logined" id="loginGrayLayoutLogin" target="_blank" bossZone="touxiang">
+					<img id="loginGrayLayoutImg" src="" />
+				</a>
+				<a id="userVipHead" class="userVipHead" href="http://ilike.qq.com" target="_blank" bossZone="touxiang"></a>
+				<div class="loginGraySmartBox undis" id="loginGraySmart" style="right:-4px;">
+					<div class="loginGraySmartTop" style="left:40px;"></div>
+					<div class="loginGraySmartContent">
+						<div class="loginGraySmartInner">
+							<ul>
+								<li id="loginGrayTitle" bossZone="name"><a href="http://ilike.qq.com" target="_blank" id="userNameGray"></a></li>
+								<li id="loginGrayLi" bossZone="logquit"><span id="userVipLayout" class="userVip"></span> <a id="loginGrayOut" href="javascript:void(0);">[退出]</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="mailGrayIconLogin" class="fr" bossZone="qmailinfor">
+				<a href="http://mail.qq.com" class="mail" target="_blank"></a>
+				<div class="mailGrayNum" id="mailGrayNum">
+					<div id="mailGrayNumLayout"></div>
+				</div>
+				<div class="loginGraySmartBox undis" id="mailGraySmart" style="right:-44px;">
+					<div class="loginGraySmartTop"></div>
+					<div class="loginGraySmartContent">
+						<div class="loginGraySmartInner">
+							<ul>
+								<li id="mailGrayTitle">QQ邮箱：</li>
+								<li id="inboxGrayLi" class="undis"><a href="http://mail.qq.com" target="_blank"><span id="inboxGrayNum" class="txtRight"></span>未读邮件</a></li>
+								<li id="bottleGrayLi" class="undis"><a href="http://mail.qq.com" target="_blank"><span id="bottleGrayNum" class="txtRight"></span>漂流瓶</a></li>
+								<li id="gmailGrayLi" class="undis"><a href="http://mail.qq.com" target="_blank"><span id="gmailGrayNum" class="txtRight"></span>群邮件</a></li>
+								<li id="dmailGrayLi" class="undis"><a href="http://mail.qq.com" target="_blank"><span id="dmailGrayNum" class="txtRight"></span>文件夹</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="qzoneGrayIconLogin" class="fr" bossZone="qzoneinfor">
+				<a href="http://qzone.qq.com" class="qzone" target="_blank"></a>
+				<div class="qzoneGrayNum" id="qzoneGrayNum">
+					<div id="qzoneGrayNumLayout"></div>
+				</div>
+				<div class="loginGraySmartBox undis" id="qzoneGraySmart" style="right:-42px;">
+					<div class="loginGraySmartTop"></div>
+					<div class="log

@@ -1,0 +1,131 @@
+<!doctype html>
+<html class="os_win7"><!--os_winXp,os_mac,os_vista,os_win7-->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta charset="utf-8" />
+	<title>腾讯开放平台 OPEN.QQ.COM</title>
+	<meta name="keyword" content="腾讯, 开放平台, 开平, 客服, 客服向导，支持" />
+	<script type="text/javascript">
+	document.domain = 'qq.com';
+</script>
+	<link href="http://qzonestyle.gtimg.cn/qzonestyle/global/css/qzfl.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="http://ctc.qzonestyle.gtimg.cn/open_proj/qzfl_pop.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script type="text/javascript">
+	document.write('<script type="text/javascript" src="http://qzonestyle.gtimg.cn/ac/qzfl/release/qzfl_for_qzone.js" charset="utf-8"><\/script>');
+	document.write('<script type="text/javascript" src="http://qzonestyle.gtimg.cn/ac/qzfl/stat.js" charset="utf-8"><\/script>');
+	document.write('<script type="text/javascript" src="http://qzonestyle.gtimg.cn/qzone/vas/open/open.js" charset="utf-8"><\/script>');
+</script><!--[if !IE]>|xGv00|ba138d675c923e13939343c76ff11a3c<![endif]-->
+	<link href="http://qzonestyle.gtimg.cn/open_proj/open_platform_development.css" type="text/css" rel="stylesheet" id='j-style'/>
+	<link rel="prerender" href="http://op.open.qq.com/">
+    <style>
+        .content-tab .tab-content .content-btn{
+            background-image:none;
+        }
+    </style>
+</head>
+<body>
+<div class="layout_mr custom_service_guide">
+<!--头部-->
+	<div class="head_v2">
+		<div class="inner">
+			<h1><a href="http://open.qq.com/" class="logo">腾讯开发平台<sup>beta</sup></a> </h1>
+			<span class="slogan">
+				开放成就梦想
+			</span>
+			<div class="extra_op">
+				<p class="login_info"><span id="loginInfo"><a href="http://open.qq.com/login" onclick="V.login.show();return false;">登录</a></span> | 
+				
+				<a href="javascript:void(0);"  id="support">腾讯支持<b class="arrow_b"></b></a> | 
+				<a href="http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5">资料库</a></p>
+				<!--<p class="login_info"><strong><a href="#" class="hit">我的管理中心</a></strong> <a href="#" class="hit">退出</a> | <a href="#">资料库</a></p>-->
+				<div class="hd_search">
+					<form action="javascript:void(0);" name="header_search_form" id="header_search_form">
+						<fieldset>
+							<label class="visually_hidden" for="ipt_search">搜索</label> <input id="ipt_search" type="text" _val="资料库/API搜索" maxlength="20" class="input_search" autocomplete="off" name="key" placeholder="资料库/API搜索" style="color: rgb(0, 0, 0); "> <a class="btn_search" href="javascript:void(0);" onclick="return false;" id="btn_search"><span>搜索</span></a>
+						</fieldset>
+					</form>
+				</div>
+			</div>
+			<!-- 下拉框 开始 -->
+			<div class="layer_drop_down"  id="layer_drop_down" style="display:none;">
+				<div class="drop_down_inner">
+					<div class="drop_down_hd">
+						<a href="http://open.qq.com/support" class="link_drop_down" target="_blank" _hot_tag="OPEN.TENCENTSUPPORT">腾讯支持<b class="arrow_b"></b></a>
+					</div>
+					<div class="drop_down_bd">
+						<ul>
+							<li><a target ="_blank" href="http://open.qq.com/support" _hot_tag="OPEN.TENCENTSUPPORT">联系客服</a></li>
+							<li><a target ="_blank" href="http://daxue.qq.com/open" _hot_tag="OPEN.LESSONS">腾讯公开课</a></li>
+							<li><a target ="_blank" href="http://bbs.open.qq.com/forum.php" _hot_tag="OPEN.FORUM">开发者论坛</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- 下拉框 结束 -->
+		</div>
+	</div>
+<!--/头部-->
+<!-- body 开始 -->
+    <div class="body">
+        <div class="content">
+            <div class="content-wrap">
+                <h1 class="title-open-platform">联系我们</h1>
+                <!-- tab 开始 -->
+                <div class="content-tab">
+                    <ul class="tab-tit" id="tab-tit">
+                        <li _index="1" class="tab-li-1">
+                            <div class="tab-tit-1">
+                                <h2>业务支持</h2>
+                                <p>企业QQ在线咨询及合同管理通道</p>
+                            </div>
+                        </li>
+                        <li _index="2" class="tab-li-2">
+                            <div class="tab-tit-2">
+                                <h2>创业基地及媒体合作</h2>
+                                <p>创业基地、媒体机构、会议合作</p>
+                            </div>
+                        </li>
+                        <li _index="3" class="tab-li-3">
+                            <div class="tab-tit-3 active">
+                                <h2>商务拓展</h2>
+                                <p>应用宝及网页游戏类应用商务合作</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="cl"></div>
+                    <div class="tab-content-wrap" id="tab-content-wrap">
+                        <div class="tab-content tab-content-1 block-hidden">
+                            <div>
+                                <h2 class="tab-content-tit">企业QQ支持 ( QQ空间、朋友网、应用宝、QQ登录、移动游戏 )</h2>
+                                <p class="first">请点击“在线咨询”图标，根据问题分类选择相应的客服小组，提供您的APP ID、应用名称以及问题描述。<br>(1)工作时间：周一至周五9:30-12:00, 14:00-18:00 （国家法定节假日除外）。<br>(2)非工作时间（只提供云服务故障排查）： 除工作时间以外，企业QQ提供7*24小时云服务故障值班服务。</p>
+                                <p class="first">注:为了保证服务质量，咨询类问题建议您在工作日进行反馈会得到更快的答复；如果需要故障报障，请直接联系企业QQ报障，应用接入企业QQ号码：800013811</p>
+                                <a href="http://wiki.open.qq.com/wiki/%E8%85%BE%E8%AE%AF%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%9C%8D%E5%8A%A1%E5%9B%A2%E9%98%9F" target="_blank" class="link" title="点击查看腾讯开放平台服务团队说明">点击查看腾讯开放平台服务团队说明</a>
+                                <a class="content-btn" target="_blank" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800013811&amp;cref=http://open.qq.com/support/&amp;dm=qq.com&amp;&amp;f=1&amp;ty=1">
+                                    <img border="0" src="http://wpa.qq.com/pa?p=2:800013811:42" alt="点击这里给我发消息" title="点击这里给我发消息">
+                                </a>
+                            </div><br>
+                            <div>
+                                <h2 class="tab-content-tit">网站接入企业QQ支持 ( 认证空间 )</h2>
+                                <p>请点击“在线咨询”图标，根据问题分类选择相应的客服小组，提供您的应用名称以及问题描述。<br>工作时间：周一至周五9:30-12:00, 14:00-18:00，国家法定节假日休息。<br>注：为了保证服务质量，咨询类问题建议您在工作日进行反馈会得到更快的答复；以上时间以外，企业QQ停止服务。<br>企业QQ：800030681</p>
+                                <a class="content-btn" target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=800030681&amp;site=qq&amp;menu=yes">
+                                    <img border="0" src="http://wpa.qq.com/pa?p=2:800030681:42" alt="点击这里给我发消息" title="点击这里给我发消息">
+                                </a>
+                            </div><br>
+                            <div>
+                                <h2 class="tab-content-tit">合同管理</h2>
+                                <h3>施海龙</h3>
+                                <p>合同管理负责人<br>电邮：<span class="email" name="opencontract"></span></p>
+                            </div>
+							<br>
+							<div>
+                                <h2 class="tab-content-tit">正版应用及应用市场接入支持（试运行）</h2>
+                                <h3>合作范围：</h3>
+								<p class="first">1. 正版认证能力SDK接入合作</p>
+								<p>2. 正版认证的应用市场联盟接入合作</p>
+                                <p>联系方式：licensedapp@tencent.com</p>
+                            </div>
+                        </div>
+                        <div class="tab-content tab-content-2 block-hidden">
+          

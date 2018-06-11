@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>开平学院 | 腾讯大学</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="腾讯大学"/>
+<meta name="keywords" content="腾讯大学、电商学院、开平学院、互联网学院"/>
+<link href="//cdn.m.tencent.com/daxue_static/css/a.css?max_age=86408" type="text/css" rel="stylesheet" />
+<link href="//cdn.m.tencent.com/daxue_static/css/b.css?max_age=86408" type="text/css" rel="stylesheet" />
+<script src="//cdn.m.tencent.com/daxue_static/js/jquery-1.26.js?max_age=86408" type="text/javascript"></script>
+<script src="//cdn.m.tencent.com/daxue_static/js/jquery.drag.js?max_age=86408" type="text/javascript"></script>
+<script src="//cdn.m.tencent.com/daxue_static/js/jquery.util.js?max_age=86408" type="text/javascript"></script>
+<script src="//cdn.m.tencent.com/daxue_static/js/all.js?max_age=86408" type="text/javascript"></script>
+<!--[if lt IE 4]>
+<script>var file_root = '//cdn.m.tencent.com/daxue_static/';</script>
+<script type="text/javascript" src="//cdn.m.tencent.com/daxue_static/js/unitpngfix.js"></script>
+<![endif]-->
+<link href="//cdn.m.tencent.com/daxue_static/favicon.ico" type="image/ico" rel="shortcut icon">
+<script>
+	var url_root = 'http://daxue.qq.com/';
+	var mustShowLogin = false;
+</script></head>
+<body id="open" class="xyHome">
+	<a name="top"></a>
+<div id="heardout" class="unitPng">
+	<div id="header" class="width990">
+		<div class="l left logodiv">
+			<a href="http://daxue.qq.com/"><img class="unitPng" src="//cdn.m.tencent.com/daxue_static/img/logo.png" alt="腾讯大学logo" title="返回腾讯大学首页"/></a>
+		</div>
+		<div class="changeMod left">
+			<div class="changeModOut"><div class="changeModOut2">
+				<a class="flatForm openmenu" href="http://daxue.qq.com/open">开平学院</a>
+				<div class="modother">
+               	    <a href="http://daxue.qq.com/wechat" class="eccmenu">微信学院</a>
+					<a href="http://edu.tencentads.com/" class="openmenu" target="_blank">营销学院</a>
+					<a href="http://daxue.qq.com/game" class="secmenu last">游戏学院</a>
+				</div>
+			</div></div>
+		</div>
+		<div class="right searchdiv">
+			<div class="qqlogin" style="height:21px;line-height:21px;">
+	<a href="javascript:;" onclick="showLogin();"></a>
+</div>
+			<form action="http://daxue.qq.com/open/list">
+				<input type="text" name="key" value="" class="searchinp left" placeholder="云平台 社交网络 运营数据"/>
+				<input type="submit" value="" class="searchsub left"/>
+				<div class="clr"></div>
+			</form>
+		</div>
+		<div class="clr"></div>
+	</div>
+</div>
+<div class="bgmenu" id="bgmenu">
+	<div class="width990">
+		<div class="left submenu">
+			<ul>
+				<li>
+					<a class="home active" href="http://daxue.qq.com/open"><span>学院首页</span></a>
+				</li>
+				<li class="submenu1">
+					<a class="" href="javascript:;"><span>线下培训</span></a>
+					<div class="submenu2">
+												<a target="_blank" href="http://bbs.open.qq.com/thread-1832019-1-1.html" class="">《一步之遥》新闻发布会</a>
+												<a target="_blank" href="http://bbs.open.qq.com/thread-1832162-1-1.html" class="">腾讯云创业者俱乐部</a>
+												<a target="_blank" href="http://bbs.open.qq.com/thread-1832273-1-1.html" class=" last">感触. 重构. 变革— 社会化营销论坛</a>
+												<div class="clr"></div>
+					</div>
+				</li>
+				<li class="last">
+					<a class="" href="http://daxue.qq.com/open/list"><span>在线课程</span></a>
+				</li>
+			</ul>
+		</div>
+		<div class="right menuright">
+			<ul>
+				<li>
+					<a class="topAdv1" href="http://bbs.open.qq.com/forum.php" target="_blank"><span>开发者论坛</span></a>
+				</li>
+				<li class="last">
+					<a class="topAdv2" href="http://bbs.open.qq.com/thread-1406988-1-1.html" target="_blank"><span>课程提交</span></a>
+				</li>
+			</ul>
+		</div>							
+		<div class="clr"></div>				
+	</div>
+</div>	<div id="xyBanner" style="display:none;">
+		<div class="bigs">
+					<a target="_blank" class="big  active" href="http://app.open.qq.com/" style="background-image:url(//cdn.m.tencent.com/daxue_static/img/open/opBanner2.jpg);background-position:center 0;" title="移动.生态——2014移动开放战略大会"></a>
+					<a target="_blank" class="big " href="http://zz.comsenz.com" style="background-image:url(//cdn.m.tencent.com/daxue_static/img/open/opBanner3.jpg);background-position:center 0;" title="中国互联网创新创业大赛"></a>
+		 
+		</div>
+		<div class="relative width990">
+			<div class="items">
+												<a class="item active" title="移动.生态——2014移动开放战略大会" link="http://app.open.qq.com/" href="javascript:;" src="//cdn.m.tencent.com/daxue_static/img/open/opBanner2.jpg"></a>
+																<a class="item" title="中国互联网创新创业大赛" link="http://zz.comsenz.com" href="javascript:;" src="//cdn.m.tencent.com/daxue_static/img/open/opBanner3.jpg"></a>
+												<div class="clr"></div>
+			</div>
+		</div>
+	</div>
+    <div class="banner">
+        <div class="banner_container">
+	    	<div class="slider_bar">
+	        	        	        	        	        	        	        	        <a href="http://daxue.qq.com/open/detail/id/371" target="_blank" ><img src="http://3gimg.qq.com/daxue_qq_com/image/201501/1421725572427.jpg" width="1439" height="358"></a>	        	        </div>
+	        <div class="counter">
+	            <ul>
+	        		        		        		        		            <li class="fourth">4</li>
+	            	        </ul>
+	        </div>
+        </div>
+    </div>
+    <div class="live">
+        <div class="container close_online_tip">
+            <div class="live_tips">
+                <p class="coming_soon">直播预告：直播还没开始哦，看看我们的推荐吧！</p>
+                <span class="live_open">展开</span> </div>
+        </div>
+        <div class="container online_show" style="display:none;">
+            <h2>直播预告</h2>
+            <div class="slider_tip" style="display:none;">
+                <p class="hide_tip">直播信息已隐藏，展开后可以继续浏览。</p>
+                <span class="live_open">展开</span>
+            </div>
+            <div class="live_sliders">
+                <div class="sliders">
+                    <div class="main">
+                        <div class="slider_list" style="width: 1000%">
+                                                    </div>
+                    </div>
+                    <a href="javascript:;" class="ctrl_btn prev">上一条</a> <a href="javascript:;" class="ctrl_btn next active">下一条</a> </div>
+                <i class="slider_close"></i>
+                <ul class="counter">
+                                    </ul>
+            </div>
+        </div>
+    </div>
+	<div id="xyCont" class="width990">
+		<div class="xycontl left">
+			<div class="new">
+				<div class="t">
+					<div class="left">最新线下培训</div>
+					<div class="right"></div>
+					<div class="clr"></div>
+				</div>
+				<div class="c"><div class="c2">
+															<div class="item">
+						<a href="http://bbs.open.qq.com/thread-1832019-1-1.html" target="_blank"><img src="//cdn.m.tencent.com/daxue_static/img/open/20130607.jpg"/></a>
+						<div class="desc">
+								<div class="title"><a href="http://bbs.open.qq.com/thread-1832019-1-1.html" target="_blank">《一步之遥》新闻发布会</a></div>
+								<div class="theme">主题：青春励志创业</div>
+								<div class="info">时间：6月12日10:00—12:00</div>
+								<div class="address">地点：上海展览中心</div>	
+								<div class="link">
+									<a href="http://bbs.open.qq.com/thread-1832019-1-1.html" class="but2" target="_blank">查看详情</a>						
+								</div>
+								<div class="clr"></div>
+						</div>
+					</div>
+																				<div class="item">
+						<a href="http://bbs.open.qq.com/thread-1832162-1-1.html" target="_blank"><img src="//cdn.m.tencent.com/daxue_static/img/open/tencent-cloud-party.jpg"/></a>
+						<div class="desc">
+								<div class="title"><a href="http://bbs.open.qq.com/thread-1832162-1-1.html" target="_blank">腾讯云创业者俱乐部</a></div>
+								<div class="theme">主题：基于腾讯云服务的交流</div>
+								<div class="info">时间：4月27 18:30 至 3月27 20:30</div>
+								<div class="address">地点：北京国际会议中心</div>	
+								<div class="link">
+									<a href="http://bbs.open.qq.com/thread-1832162-1-1.html" class="but2" target="_bla

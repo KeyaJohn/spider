@@ -1,0 +1,188 @@
+<!doctype html>
+<html><!--os_winXp,os_mac,os_vista,os_win7-->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta charset="utf-8"/>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+	<meta http-equiv="Content-Language" content="zh-cn" />
+	<meta name="robots" content="all" />
+	<meta name="Keywords" content="腾讯,社区,开放平台" />
+	<meta name="Description" content="腾讯开放平台，让天下没有埋没的才能！" />
+	<meta name="author" content="Tencent" />
+	<meta name="copyright" content="Tencent" />
+	<title>腾讯开放平台	OPEN.QQ.COM</title>
+	<script type="text/javascript">
+		document.domain = 'qq.com';
+		var _SPEED_FLAG = [7721,131,4];
+		var _SPPED_T = [new Date()];//0
+		var _PERFORMANCE_FLAG = [7721,131,10];
+	</script>
+	<link href="http://qzonestyle.gtimg.cn/open_proj/open_platform_v3_wiki_new.css" type="text/css" rel="stylesheet"/>
+	<link href="http://qzonestyle.gtimg.cn/open_proj/open_platform_v3_wiki_pop.css" type="text/css" rel="stylesheet"/>
+	<link href="http://qzonestyle.gtimg.cn/open_proj/proj_open_v2/css/home/open_platform_v3_new.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+	<div class="open_index">
+		<div class="head_v3" id="portal-header">
+	<div class="inner">
+		<h1><a href="http://open.qq.com/" class="logo" _hot_tag="OPEN.LOGO">腾讯开放平台</a></h1>
+		<ul class="navigation">
+			<li>
+				<a href="http://open.qq.com/" _hot_tag="OPEN.HOME"><span>首页</span></a>
+			</li>
+			<li>
+				<a href="http://c.qq.com/base/" _hot_tag="OPEN.ZC" target="_blank">众创空间</a>
+			</li>
+			<li>
+				<a href="http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5" class="select" _hot_tag="OPEN.WIKI"><span>资料库</span></a>
+			</li>
+
+			<li>
+				<a href="http://bbs.open.qq.com/forum.php" _hot_tag="OPEN.FORUM" target="_blank">论坛</a>
+			</li>
+			<li>
+				<a href="javascript:void(0);" onclick="return false;" _hot_tag="OPEN.TENCENTSUPPORT" target="_blank">联系我们</a>
+					<div class="subnav">
+						<ul>
+							<li><a href="http://open.qq.com/support" target="_blank">咨询客服</a></li>
+							<li><a href="http://bbs.open.qq.com/forum-4203-1.html" target="_blank">我要反馈</a></li>
+						</ul>
+					</div>
+			</li>
+		</ul>
+		<div class="extra_op">
+			<p class="login-button-area" style="display:none;">
+				<a href="http://open.qq.com/login" onclick="return false;" _hot_tag="OPEN.LOGIN">注册</a>
+				<a href="http://open.qq.com/login" onclick="return false;" _hot_tag="OPEN.LOGIN">登录</a>
+			</p>
+			<p class="login_info_t" id="loginInfo" style="display:none;">
+				<a href="http://open.qq.com/login" onclick="return false;" class="login j_login" _hot_tag="OPEN.LOGIN_USER"><span></span><b style="display:none;" class="arrow_down"></b></a>
+				<a href="http://op.open.qq.com/" class="manage_center jBtnMC" _hot_tag="OPEN.MANGER_CENTER"><span>管理中心</span></a>
+				<a href="http://op.open.qq.com/?mod=sys_message" target="_blank" style="display:none;" class="message jBtnMsg">消息
+					
+				</a>
+				<span class="manage_entrance logout jLogout" style="display:none;">
+					<a href="javascript:void(0);" onclick="return false;" class="manage_center_entrance">退出</a>
+				</span>
+			</p>
+			<div class="hd-search-wrapper">
+				<div class="lan-tabs">
+					<a class="lan-tab first" href="http://open.qq.com/">简体中文</a><a class="lan-tab" href="http://open.qq.com/eng/">English</a>
+				</div>
+				<div class="hd_search">
+					<form class="extra_info" action="javascript:void(0);" name="header_search_form" id="frm_search">
+						<label class="login_info">
+							<input type="text" id="ipt_search" name="key" class="input_search" water_mark="" placeholder="资料库/API搜索" maxlength="20" autocomplete="off" />
+							<button type="submit" class="ico_search" id="btn_search" _hot_tag="OPEN.SEARCH">搜索</button>
+						</label>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">window.is_whitelist = "";</script>
+		<div id="wiknav-module" class="mod_nav">
+		<div class="inner">
+			<ul id="wikinav-list">
+				<li class="nav_item j_nav_item select"><a href="http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5"><i class="ico_n_home"></i>资料库首页</a></li>
+				
+				<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5wiki%E7%B4%A2%E5%BC%95" _nav_ind="0" target="_blank"><i class="ico_n_app-1"></i>移动应用接入<b class="ico_n_trg"></b></a></li>				
+				
+				<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/%E5%B9%B3%E5%8F%B0%E7%AE%80%E4%BB%8B" _nav_ind="1" target="_blank"><i class="ico_n_wapgame"></i>移动游戏接入<b class="ico_n_trg"></b></a></li>				
+				
+				<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/PC%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5wiki%E7%B4%A2%E5%BC%95" _nav_ind="2" target="_blank"><i class="ico_n_app"></i>PC应用接入<b class="ico_n_trg"></b></a></li>				
+				
+				<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/%E7%BD%91%E7%AB%99%E6%8E%A5%E5%85%A5" _nav_ind="3" target="_blank"><i class="ico_n_www"></i>网站接入<b class="ico_n_trg"></b></a></li>				
+				
+			</ul>
+			<div class="mod_guide" style="display:none;overflow:visible;" id="sub_nav_cont">
+				
+			</div>
+			<div class="use_guides">
+				<a id="startguide-link" href="javascript:void(0)" onclick="return false;">资料库使用指引</a>
+			</div>
+		</div>
+	</div>
+		<div id="search-module" class="mod_search">
+	<div class="inner clearfix">
+		<div class="search_area"> 
+			<form class="search_area_inner" action="javascript:void(0);" id="search_form">
+				<div class="search_field_outer">
+					<div class="search_field_inner">
+						<div class="search_field_width">
+							<div class="search_attach">
+								<input type="text" id="key_input" title="搜索" >
+							</div>
+						</div>
+						<div class="down_items" style="display:none; height:48px;" id="search_catgory_list">
+							<ul>
+								<li><a href="javascript:void(0);" onclick="return false;" _search_type="0"><span>全部类型</span></a></li>
+								<li><a href="javascript:void(0);" onclick="return false;" _search_type="1"><span>FAQ</span></a></li>
+								<!--<li><a href="javascript:void(0);" onclick="return false;" _search_type="2"><span>官方资料</span></a></li>-->
+							</ul>
+						</div>
+					</div>
+				</div>
+				<span class="search_category" id="search_down_btn" style="cursor:pointer;">
+					<a href="javascript:void(0);" onclick="return false;" id="search_selected_type" class="search_cate_text">全部类型</a>
+					<b class="arrow_down"></b> 
+				</span>
+				<div class="submit_btn"><input type="submit" value="搜索" class="search_btn"></div>
+			</form>
+		</div>
+		<div class="nav_links_box">
+			<i></i>
+			<ul class="nav_links clearfix">
+					
+				<li><a href="javascript:void(0);" onclick="window.open('http://open.qq.com/search?is_search=1&from=wiki&key='+encodeURIComponent('移动应用'), '_blank');">移动应用</a></li>
+					
+				<li><a href="javascript:void(0);" onclick="window.open('http://open.qq.com/search?is_search=1&from=wiki&key='+encodeURIComponent('应用规范'), '_blank');">应用规范</a></li>
+					
+				<li><a href="javascript:void(0);" onclick="window.open('http://open.qq.com/search?is_search=1&from=wiki&key='+encodeURIComponent('SVN'), '_blank');">SVN</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+		<div class="mod_content" id="index_home">
+			<div class="inner" style="overflow:visible;">
+				<div id="whatsnew" style="">
+					<div class="nav">
+						<ul style="height: 276px;">
+							
+							<li class="nav_list cur">
+								<a href="javascript:void(0)" onclick="return false;" _top_level_ind="f_0" >
+								<i class="platform_app"></i>
+								<span>移动接入指引</span>
+								</a>
+							</li>
+							
+							<li class="nav_list">
+								<a href="javascript:void(0)" onclick="return false;" _top_level_ind="f_1" >
+								<i class="platform_app-1"></i>
+								<span>应用接入指引</span>
+								</a>
+							</li>
+							
+							<li class="nav_list">
+								<a href="javascript:void(0)" onclick="return false;" _top_level_ind="f_2" >
+								<i class="wapgame"></i>
+								<span>网站接入指引</span>
+								</a>
+							</li>
+							
+						</ul>
+					</div>
+					<div class="main_area" style="background:#fff;">
+						<div class="main_content">
+							
+							<div class="beginner_guide" _top_level_cont="f_0" index="0">
+								<span class="bor_c" style="top:39px;"><span class="bor_i"></span></span>
+								<h2>新手指引</h2>
+								
+									<div class="guide_box">
+										<i class="ico_o_boss"></i>
+										<ul>
+											<li><strong>应用发布</strong></li>
+		

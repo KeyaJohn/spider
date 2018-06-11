@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<html lang="zh-cn">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Language" content="zh-cn" />
+	<meta name="robots" content="all" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="Keywords" content="腾讯,社区,开放平台" />
+	<meta name="Description" content="腾讯开放平台，让天下没有埋没的才能！" />
+	<meta name="author" content="Tencent" />
+	<meta name="copyright" content="Tencent" />
+	<title>服务指引 - 腾讯开放平台</title>
+	<script type= "text/javascript">/*<![CDATA[*/
+		var skin = "openbook_v2013";
+		var stylepath = "/skins";
+		var wgArticlePath = "/wiki/$1";
+		var wgScriptPath = "";
+		var wgScript = "/index.php";
+		var wgVariantArticlePath = false;
+		var wgActionPaths = {};
+		var wgServer = "http://wiki.open.qq.com";
+		var wgCanonicalNamespace = "";
+		var wgCanonicalSpecialPageName = false;
+		var wgNamespaceNumber = 0;
+		var wgPageName = "服务指引";
+		var wgTitle = "服务指引";
+		var wgAction = "view";
+		var wgArticleId = "557";
+		var wgIsArticle = true;
+		var wgUserName = null;
+		var wgUserGroups = null;
+		var wgUserLanguage = "zh-cn";
+		var wgContentLanguage = "zh-cn";
+		var wgBreakFrames = false;
+		var wgCurRevisionId = 41553;
+		var wgVersion = "1.15.4";
+		var wgEnableAPI = true;
+		var wgEnableWriteAPI = true;
+		var wgSeparatorTransformTable = ["", ""];
+		var wgDigitTransformTable = ["", ""];
+		var wgRestrictionEdit = [];
+		var wgRestrictionMove = [];
+		/*]]>*/</script>
+	<script type="text/javascript" src="/skins/common/wikibits.js?207"><!-- wikibits js --></script>
+			<script type="text/javascript" src="/skins/common/ajax.js?207"></script>
+	<script type="text/javascript">
+	document.domain = 'qq.com';
+	var g_ImgCacheDomain = 'qzonestyle.gtimg.cn';
+	var g_CurrentPage = parseInt(5);
+	isNaN(g_CurrentPage) && (g_CurrentPage = -1);
+	window.$ = window.$ || function(id) { return document.getElementById(id); };
+	
+	var _SPEED_FLAG = [7721,131,5];
+	var _SPPED_T = [new Date()];//0
+	var _PERFORMANCE_FLAG = [7721,131,11];
+	</script>
+	<link href="http://qzonestyle.gtimg.cn/open_proj/open_platform_v3_wiki_new.css" type="text/css" rel="stylesheet"/>
+	<link href="http://qzonestyle.gtimg.cn/open_proj/open_platform_v3_wiki_second_new.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="http://qzonestyle.gtimg.cn/open_proj/proj_open_v2/css/home/open_platform_v3_new.css" type="text/css" rel="stylesheet"/>
+</head>
+
+<body>
+<div class="open_index layout_lm open_lib">
+	 <a href="#top" class="backtotop" id="backtotop" style="display:none"><i class="icon"></i><span>返回顶部</span></a>
+
+
+<div class="head_v3" id="portal-header">
+	<div class="inner">
+		<h1><a href="http://open.qq.com/" class="logo" _hot_tag="OPEN.LOGO">腾讯开放平台</a></h1>
+		<ul class="navigation">
+			<li>
+				<a href="http://open.qq.com/" _hot_tag="OPEN.HOME"><span>首页</span></a>
+			</li>
+			<li>
+				<a href="http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5" class="select" _hot_tag="OPEN.WIKI"><span>资料库</span></a>
+			</li>
+			<li>
+				<a href="http://open.qq.com/activity" _hot_tag="OPEN.ACTIVITY" target="_blank">活动</a>
+			</li>
+			<li>
+				<a href="http://daxue.qq.com/open" _hot_tag="OPEN.LESSONS" target="_blank">公开课</a>
+			</li>
+			<li>
+				<a href="http://bbs.open.qq.com" _hot_tag="OPEN.FORUM" target="_blank">论坛</a>
+			</li>
+			<li>
+				<a href="http://open.qq.com/support" _hot_tag="OPEN.TENCENTSUPPORT" target="_blank">联系我们</a>
+			</li>
+		</ul>
+		<div class="extra_op">
+			<p class="login-button-area" style="display:none;">
+				<a href="http://open.qq.com/login" onclick="return false;">注册</a>
+				<a href="http://open.qq.com/login" onclick="return false;">登录</a>
+			</p>
+			<p class="login_info_t" id="loginInfo" style="display:none;">
+				<a href="http://open.qq.com/login" onclick="return false;" class="login j_login"><span>登录</span><b style="display:none;" class="arrow_down"></b></a>
+				<a href="http://op.open.qq.com/" style="display:none;" class="manage_center jBtnMC"><span>管理中心</span></a>
+								<span class="manage_entrance logout jLogout" style="display:none;">
+					<a href="javascript:void(0);" onclick="return false;" class="manage_center_entrance">退出</a>
+				</span>
+			</p>
+			<div class="hd-search-wrapper">
+				<div class="lan-tabs">
+					<a class="lan-tab first" href="http://open.qq.com/">简体中文</a><a class="lan-tab" href="http://open.qq.com/eng/">English</a>
+				</div>
+				<div class="hd_search">
+					<form class="extra_info" action="javascript:void(0);" name="header_search_form" id="frm_search">
+						<label class="login_info">
+							<input type="text" id="ipt_search" name="key" class="input_search" water_mark="" placeholder="资料库/API搜索" maxlength="20" autocomplete="off" />
+							<button type="submit" class="ico_search" id="btn_search" _hot_tag="OPEN.SEARCH">搜索</button>
+						</label>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	<!--导航-->
+	<div class="mod_nav">
+		<div class="inner">
+			<ul>
+				<li class="nav_item" id="j_nav_wiki_home"><a href="http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5"><i class="ico_n_home"></i>资料库首页</a></li>
+				<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5wiki%E7%B4%A2%E5%BC%95" _nav_ind="0" target="_blank"><i class="ico_n_app-1"></i>移动应用接入<b class="ico_n_trg"></b></a></li>	<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/%E5%B9%B3%E5%8F%B0%E7%AE%80%E4%BB%8B" _nav_ind="1" target="_blank"><i class="ico_n_wapgame"></i>移动游戏接入<b class="ico_n_trg"></b></a></li>	<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/PC%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5wiki%E7%B4%A2%E5%BC%95" _nav_ind="2" target="_blank"><i class="ico_n_app"></i>PC应用接入<b class="ico_n_trg"></b></a></li>	<li class="nav_item j_nav_item"><a href="http://wiki.open.qq.com/wiki/%E7%BD%91%E7%AB%99%E6%8E%A5%E5%85%A5" _nav_ind="3" target="_blank"><i class="ico_n_www"></i>网站接入<b class="ico_n_trg"></b></a></li>				</ul>
+			<!--指引模块-->
+			
+			<div class="mod_guide" style="display:none;overflow:visible;" id="sub_nav_cont">
+				
+			</div>
+		</div>
+	</div>
+	
+	<!--/头部--><!-- body 开始 -->
+	<div class="body">
+		<h2 class="tit_open_platform" style="display:none;">资料库</h2>
+		<div class="breadcrumb"><ul class="floatcontainer"><li class="navbithome"><a class="navbit_text" href="http://wiki.open.qq.com/wiki/%E9%A6%96%E9%A1%B5"><img src="http://qzonestyle.gtimg.cn/open_proj/img/open_platform_v3/ico_home.png"></a></li><li class="navbit"><i></i><a class="navbit_text" href="http://wiki.open.qq.com/wiki/PC%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5wiki%E7%B4%A2%E5%BC%95">应用接入</a></li><li class="navbit"><i></i><a class="navbit_text" href="http://wiki.open.qq.com/wiki/PC%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5wiki%E7%B4%A2%E5%BC%95#.E6.94.BF.E7.AD.96.E4.B8.8E.E8.A7.84.E8.8C.83">政策与规范</a></li><li class="navbit"><i></i><a class="navbit_text" href="http://wiki.open.qq.com/wiki/%E6%8A%95%E8%AF%89%E6%8C%87%E5%BC%95">服务指引</a></li></ul></div>	
+		<div class="content clearfix">
+		<div class="left_col">
+			<ul class="menu_level3" id="menu_level3"></li></li><ul style="display: none;"><li><h4><a href="http://wiki.open.qq.com/wiki/mobile/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5%E6%A6%82%E8%BF%B0">移动应用接入概述</a></h4></li><li><h4><a href="http://wiki.open.qq.com/wiki/mobile/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B">移动应用接入流程</a></h4></li><li><h4><a href="http://wiki.open.qq.com/wiki/mobile/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC">联系我们</a></h4></li></ul></li><ul style="display: none;"><li><h4><a href="/wiki/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%AE%A1%E6%A0%B8%E8%A7%84%E8%8C%83">移动应用审核规范</a></h4></li><li><h4><a href="http://wiki.open.qq.com/wiki/mobile/%E5%BC%80%E5%8F%91%E8%80%85%E5%8D%8F%E8%AE%AE">开发者协议</a></h4></li></ul></li><ul style="display: none;"><li><h4><a href="http://wiki.open.qq.com/wiki/mobile/OAuth2.0%E7%AE%80%E4%BB%8B">OAuth2.0简介</a></h4></li><li><h4><a href="javascript:void(0);" onclick="return false;"><i class="ico ico_li"></i>OAuth2.0开发文档</a></h4><ul style="display: none;"><li><h5><a href="http://wiki.open.qq.com/wiki/mobile/%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C">准备工作</a></h5></li><li><h5><a href="http://wiki.open.qq.com/wi

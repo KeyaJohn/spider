@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8"/>
+<title>腾讯众创空间-双百计划</title>
+<meta name="keywords" content="双百计划,腾讯双百计划,众创空间"/>
+<meta name="description" content="腾讯双百计划，即腾讯计划3年内投入价值100亿的资源，充分利用线上及线下的流量、品牌、硬件及创业基地等资源，扶持100家创业企业市值过亿，努力创造出100个亿万富翁。"/>
+<link rel="stylesheet" href="http://qzonestyle.gtimg.cn/open_proj/proj_open_shuangbai/index.css" />
+</head>
+<body>
+	<!--header start-->
+	<div class="header">
+		<div class="header-inner">
+			<div class="user">
+				<span class="name" style="display:none;" id="j-header-user"><span id="header_nickname"></span>
+					<a href="javascript:void(0);" class="ico-logout" title="退出" id="header_exit">
+						<i class="ico-left"></i>
+						<i class="ico-right"></i>
+					</a>
+				</span>
+				<span id="j-login-btn" style="display:none;">
+				<a href="javascript:void(0)">登录</a>
+				</span>
+			</div>
+			<a href="http://zc.open.qq.com/" class="logo logo-zc" title="腾讯众创空间">腾讯众创空间</a>
+			<a href="http://vc.open.qq.com/" class="logo page-title" title="双百计划">双百计划</a>
+		</div>
+	</div>
+	<!--header end-->
+	<!--banner start-->
+	<div class="banner">
+		<div class="layout">
+			<div class="intro">
+				<h1 class="hide">腾讯“双百”扶持计划</h1>
+				<p>腾讯计划3年内投入价值100亿资源，</p>
+				<p>扶持100家创业企业市值过亿，简称“双百计划”。</p>
+			</div>
+		</div> 
+	</div>
+	<!--banner end-->
+	<!--apply start-->
+	<div class="apply">
+		<div class="layout">
+			<h2>申请流程</h2>
+			<ol class="apply-step">
+				<li>
+					<div class="ico-wrap"><span class="ico ico-submit"></span></div>
+					<h3>1 提交项目</h3>
+					<p>创业者提交项目详情</p>
+				</li>
+				<li>
+					<div class="ico-wrap"><span class="ico ico-check"></span></div>
+					<h3>2 项目评审</h3>
+					<p>平台对项目进行评审</p>
+				</li>
+				<li>
+					<div class="ico-wrap"><span class="ico ico-comm"></span></div>
+					<h3>3 线下沟通</h3>
+					<p>平台主动联系优质项目方</p>
+				</li>
+				<li>
+					<div class="ico-wrap"><span class="ico ico-sign"></span></div>
+					<h3>4 签订合同</h3>
+					<p>创业者与平台签订合同</p>
+				</li>
+				<li>
+					<div class="ico-wrap"><span class="ico ico-support"></span></div>
+					<h3>5 资源扶持</h3>
+					<p>平台提供扶持资源</p>
+				</li>
+			</ol>
+			<div class="btn-wrap">
+				<a href="http://c.qq.com/startup/apply?apply_dh=1" class="btn-apply">申请双百计划</a>
+			</div>
+		</div>
+	</div>
+	<!--apply end-->
+	<!--resource start-->
+	<div class="resource">
+		<div class="layout">
+			<h2>双百资源</h2>
+			<ul class="resource-list">
+				<li>
+					<img src="http://qzonestyle.gtimg.cn/open_proj/proj_open_shuangbai/images/resource1.jpg" width="218" height="162" alt="入驻创业基地" />
+					<div class="txt">
+						<p><span class="dot">●</span>入驻创业基地</p>
+					</div>
+				</li>
+				<li>
+					<img src="http://qzonestyle.gtimg.cn/open_proj/proj_open_shuangbai/images/resource2.jpg" width="218" height="162" alt="海量精准流量" />
+					<div class="txt">
+						<p><span class="dot">●</span>海量精准流量</p>
+					</div>
+				</li>
+				<li>
+					<img src="http://qzonestyle.gtimg.cn/open_proj/proj_open_shuangbai/images/resource3.jpg" width="218" height="162" alt="创业大学辅导" />
+					<div class="txt">
+						<p><span class="dot">●</span>创业大学辅导</p>
+					</div>
+				</li>
+				<li>
+					<img src="http://qzonestyle.gtimg.cn/open_proj/proj_open_shuangbai/images/resource4.jpg" width="218" height="162" alt="对接腾讯资源" />
+					<div class="txt">
+						<p><span class="dot">●</span>对接腾讯资源</p>
+					</div>
+				</li>
+				<li>
+					<img src="http://qzonestyle.gtimg.cn/open_proj/proj_open_shuangbai/images/resource5.jpg" width="218" height="162" alt="腾讯云服务器" />
+					<div class="txt">
+						<p><span class="dot">●</span>腾讯云服务器</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!--resource end-->
+	<!--footer start-->
+	<div class="footer">
+		<div class="footer-main">
+			<p class=""><a href="http://open.qq.com/support">联系我们</a>|<a href="http://wiki.open.qq.com/wiki/%E6%8A%95%E8%AF%89%E6%8C%87%E5%BC%95">投诉举报</a>|<a href="http://wiki.open.qq.com/wiki/Tencent_Open_Platform_Complaint_Guidelines">Complaint Guidelines</a>|<a href="http://open.qq.com">腾讯开放平台</a></p>
+			<p>Copyright © 1998 - 2018 Tencent. All Rights Reserved.</p>
+		</div>
+	</div> 
+	<!--footer end-->
+	<script>
+	var IsRegistered = '0' || 0;
+	var mmConf = { base:'http://qzonestyle.gtimg.cn/' ,storage:true};
+	document.write('<script src="http://qzonestyle.gtimg.cn/c/=/open/vc/mlib/module.js,version-map.js"><\/script>');
+	</script>
+	<script>
+		module.use('/open/vc/main/index,/open/vc/mlib/stat',function(mod,stat){
+			mod.init();
+			stat.pv('open.qq.com', '/vc/main/index.htm');
+		});
+	</script>
+</body>
+</html>
+<!-- CssGaga 150426114828,xug,333 -->

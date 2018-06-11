@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="Keywords" content="腾讯,社区,开放平台">
+<link rel="stylesheet" rev="stylesheet" href="http://qzonestyle.gtimg.cn/open_proj/proj_open_v2/lives/130906_open/styles.css" type="text/css" media="screen"/>
+<title>腾讯开放平台Open系列活动</title>
+<style>
+	#event-list .over {cursor: pointer;}
+</style>
+<body>
+<div class="wrapper">
+	<div class="page">
+		<div class="layout header">
+			<h1 class="logo"><a href="http://open.qq.com/">腾讯开放平台</a></h1>
+		</div>
+		<div class="layout banner">
+			<div class="des">
+				<h3>腾讯开放平台OPEN系列活动</h3>
+				<p><address>北京 上海 广州 深圳 成都</address></p>
+			</div>
+		</div>
+		<div class="layout topics">
+			<a class="item-link" href="http://www.3wcoffee.com/tencent/" target="_blank">
+				<div class="item item1">
+					<div class="ico ico1"></div>
+					<h3 class="item_title">OPEN SALON</h3>
+					<p>腾讯开放平台、优秀开发者和投资人的交流平台。</p>
+				</div>
+			</a>
+			<div class="item item2">
+				<div class="ico ico2"></div>
+				<h3 class="item_title">OPEN CLASS</h3>
+				<p>为创业者打造的学习平台，向创业者开放腾讯积淀的产品经验和能力。</p>
+			</div>
+			<div class="item item3">
+				<div class="ico ico3"></div>
+				<h3 class="item_title">OPEN DAY</h3>
+				<p>腾讯开放日是专为APP开发者组织的新品发布会，分享新品上架的喜悦。</p>
+			</div>
+			<div class="item item4">
+				<div class="ico ico4"></div>
+				<h3 class="item_title">OPEN CAMPUS</h3>
+				<p>腾讯开放平台专属校园活动，寻找APP开发达人、发现玩转APP的校园达人。</p>
+			</div>
+		</div>
+		<div class="events">
+			<div class="line_bg"><div class="line_right"></div></div>
+			<div id="event-tabs" class="layout event_tabs" at="0">
+				<div class="time_line">
+					<div class="progress" style="width:20%;"></div>
+				</div>
+				<a id="prev-button" href="javascript:void(0);" onclick="return false" class="ctrl ctrl_prev_active" style="cursor:pointer">prev</a>
+				<a id="next-button" href="javascript:void(0);" onclick="return false" class="ctrl ctrl_next" style="cursor:pointer">next</a>
+				<!-- 
+				#看控制按钮位置固定
+				ctrl_prev/next 默认
+				ctrl_(prev/next)_on 激活
+				 -->
+				 <div style="width:980px;height:136px;overflow:hidden;position:absolute">
+				<ul id="event-list" class="list" style="width:99999px;" at="0">
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">1月11日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">3月16日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">深圳</p>
+							<p class="date">3月28日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">4月27日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">5月7日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">广州</p>
+							<p class="date">5月17日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">上海</p>
+							<p class="date">9月14日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">深圳</p>
+							<p class="date">10月29日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">11月14日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">成都</p>
+							<p class="date">11月24日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">1月7日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">5月6日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">5月10日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">杭州</p>
+							<p class="date">6月6日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">成都</p>
+							<p class="date">7月4日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">上海</p>
+							<p class="date">8月1日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">北京</p>
+							<p class="date">8月26日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+				
+					<li class="over">
+						<div class="location">
+							<p class="place">广州</p>
+							<p class="date">9月26日</p>
+						</div>
+						<i class="ico"></i>
+					</li>
+					
+				</ul>
+				</div>
+				<!-- 
+				# 城市列表可滚动，可固定
+				 -->
+			</div>
+			<div id="event-content" class="layout cont_wrap cont_wrap_fifth_on">
+				<!-- 
+				#以下是控制箭头位置的class，直接应用在父容器上(cont_wrap)控制小箭头的位置，根据当前激活的城市决定
+				cont_wrap_first_on
+				cont_wrap_second_on
+				cont_wrap_third_on
+				cont_wrap_fourth_on
+				cont_wrap_fifth_on
+				 -->
+				<i class="arrow"></i>
+				<div class="cont">
+					<div class="bodying" style="margin-top:0px">
+						
+							<div class="rowing" style="height:250px">
+								<div class="pic">
+									<a href="http://bbs.open.qq.com/thread-2265103-1-1.html" target="_blank" ><img src="http://ctc.qzonestyle.gtimg.cn/qzonestyle/act/open_activity_img/recent_1_pic0.jpg"></a>
+								</div>
+								<div class="des">
+									<h3 class="title"><a  href="http://bbs.open.qq.com/thread-2265103-1-1.html" target="_blank"  style="color:#fff;">2013年1月11日腾讯云开发者沙龙——听云会</a></h3>
+									<div class="info">
+										<p class="timer">2013.1.11  -</p>
+										<p class="place">北京</p>
+									</div>
+									<div class="describle">
+										<p>2013年1月11日腾讯云开发者沙龙——听云会</p>
+									</div>
+									<a href="http://bbs.open.qq.com/thread-2265103-1-1.html" target="_blank" class="btn_join">立即报名</a>
+								</div>
+							</div>
+						
+							<div class="rowing" style="height:250px">
+								<div class="pic">
+									<a href="http://net.chinabyte.com/248/12557248.shtml" target="_blank" ><img src="http://ctc.qzonestyle.gtimg.cn/qzonestyle/act/open_activity_img/recent_4_pic0.jpg"></a>
+								</div>
+								<div class="des">
+									<h3 class="title"><a  href="http://net.chinabyte.com/248/12557248.shtml" target="_blank"  style="color:#fff;">腾讯开发者沙龙——送红利计划</a></h3>
+									<div class="info">
+										<p class="timer">2013.3.16  -</p>
+										<p class="place">北京</p>
+									</div>
+									<div class="describle">
+										<p>2013年3月16日  腾讯开发者沙龙——送红利计划</p>
+									</div>
+									<a href="http://net.chinabyte.com/248/12557248.shtml" target="_blank" class="btn_join">立即报名</a>
+								</div>
+							</div>
+						
+							<div class="rowing" style="height:250px">
+								<div class="pic">
+									<a href="http://bbs.open.qq.com/forum.php?mod=viewthread&tid=1832273&fromuid=576841" target="_blank" ><img src="http://ctc.qzonestyle.gtimg.cn/qzonestyle/act/open_activity_img/recent_5_pic0.jpg"></a>
+								</div>
+								<div class="des">
+									<h3 class="title"><a  href="http://bbs.open.qq.com/forum.php?mod=viewthread&tid=1832273&fromuid=576841" target="_blank"  style="color:#fff;">腾讯广点通“感触.重构.变革”——社会化营销论坛</a></h3>
+									<div class="info">
+										<p class="timer">2013.3.28  -</p>
+										<p class="place">深圳</p>
+									</div>
+									<div class="describle">
+										<p>2013年3月28日 腾讯广点通“感触.重构.变革”——社会化营销论坛(深圳)</p>
+									</div>
+									<a href="http://bbs.open.qq.com/forum.php?mod=viewthread&tid=1832273&fromuid=576841" targe

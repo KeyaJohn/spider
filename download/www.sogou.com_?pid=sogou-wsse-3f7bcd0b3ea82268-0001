@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="cn">
+<head>
+    <script>window._speedMark = new Date();
+     window.lead_ip = '113.200.107.158';window.now = 1528687216296;</script>    <meta charset="utf-8">
+<link rel="dns-prefetch" href="//img01.sogoucdn.com"><link rel="dns-prefetch" href="//img02.sogoucdn.com"><link rel="dns-prefetch" href="//img03.sogoucdn.com"><link rel="dns-prefetch" href="//img04.sogoucdn.com"><link rel="dns-prefetch" href="//dlweb.sogoucdn.com">
+<title>搜狗搜索引擎 - 上网从搜狗开始</title>
+<link rel="shortcut icon" href="/images/logo/new/favicon.ico?v=4" type="image/x-icon">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="search" type="application/opensearchdescription+xml" href="/content-search.xml" title="搜狗搜索">
+<meta name="keywords" content="搜狗搜索,网页搜索,微信搜索,视频搜索,图片搜索,音乐搜索,新闻搜索,软件搜索,问答搜索,百科搜索,购物搜索">
+<meta name="description" content="中国最领先的中文搜索引擎，支持微信公众号、文章搜索，通过独有的SogouRank技术及人工智能算法为您提供最快、最准、最全的搜索服务。">    <link rel="stylesheet" type="text/css" href="/web/index/css/base.v.1.4.9.css">
+<style>.wrapper .suggestion{border: 1px solid #e8e8e8; width:622px;-moz-box-shadow: 0px 1px 8px rgba(0,0,0,0.1);-webkit-box-shadow: 0px 1px 8px rgba(0,0,0,0.1);box-shadow: 0px 1px 8px rgba(0,0,0,0.1);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 2px;border-bottom-left-radius: 2px; top:43px;}  .wrapper .suglist{width: 206px;}  .wrapper .suglist .keyword {color: #7a77c8;}  .big-scn .suggestion {width: 654px;}  .big-scn .suglist{width:236px;}  .wrapper .suglist{ padding:4px 0}</style></head>
+<body >
+        <div class="bg-gj-w" id="settings-mask" style="display: none;"></div>
+<div class="gjss" id="settings-advanced" style="display: none;top:-240px;">
+    <div class="hf-box" id="settings-save-layer">
+        <div class="hf-def">已保存设置</div>
+    </div>
+    <div class="gjss-tab">
+        <a uigs-id="tab_set" href="javascript:void(0);" class="js-settings-tab tab-a cur">搜索设置</a>
+        <a uigs-id="tab_adv" href="javascript:void(0);" class="js-settings-tab tab-a">高级搜索</a>
+        <a href="javascript:void(0);" class="close-btn" id="settings-close"></a>
+    </div>
+    <div class="gjss-main">
+        <div class="gjss-sz js-settings-content">
+            <p class="gjss-err js-settings-mask" style="display: none;">搜索设置暂不可用，请启用浏览器的Cookie功能，然后刷新本页。</p>
+            <div class="bg-wkq js-settings-mask" id="settings-tips" style="display: none;"></div>
+
+            <dl class="js-as-select">
+                <dt>搜索结果显示条数</dt>
+                <dd>
+                    <a href="javascript:void(0);" class="xz" id="settings-number" data-value="10">每页显示10条</a>
+                    <ul id="settings-number-list">
+                        <li><a uigs-id="set_10" href="javascript:void(0);" data-value="10">每页显示10条</a></li>
+                        <li><a uigs-id="set-20" href="javascript:void(0);" data-value="20">每页显示20条</a></li>
+                        <li><a uigs-id="set-50" href="javascript:void(0);" data-value="50">每页显示50条</a></li>
+                        <li><a uigs-id="set-100" href="javascript:void(0);" data-value="100">每页显示100条</a></li>
+                    </ul>
+                </dd>
+                <input type="hidden" name="pageNum" id="settings-show-number" value="10">
+            </dl>
+            <p class="enter" style="padding-top: 20px;">
+                <a href="javascript:void(0);" id="settings-save" uigs-id="set-save" class="a1">保存</a>
+                <a href="javascript:void(0);" id="settings-reset" uigs-id="set-reset" class="a2">恢复默认</a>
+            </p>
+        </div>
+        <div class="gjss-sz js-settings-content" style="display: none;">
+            <form action="/web" target="_blank" id="advanced-search-form">
+                <input type="hidden" name="query" value="">
+                <input name="fieldtitle" type="hidden" value=""/>
+                <input name="fieldcontent" type="hidden" value=""/>
+                <input name="fieldstripurl" type="hidden" value=""/>
+                <input name="bstype" type="hidden" value=""/>
+                <input name="ie" type="hidden" value="utf8"/>
+                <dl>
+                    <dt>搜索关键词</dt>
+                    <dd class="js-as-radio">
+                                                <div class="input-box js-input-box" id="advanced-query-box">
+                            <input name="q" type="text" must="1" size="42" maxlength="100" autocomplete="off" placeholder="例如：搜狗真棒（多个关键词可用空格区分）">
+                            <span class="err-word">* 请输入搜索关键词</span>
+                        </div>
+                        <a uigs-id="adv_split-query" href="javascript:void(0);" data-value="checkbox" class="dk-btn cur">拆分关键词</a>
+                        <a uigs-id="adv_no-split-query" href="javascript:void(0);" data-value="" class="dk-btn">不拆分关键词</a>
+                        <input type="hidden" name="include" value="checkbox">
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>在指定站内搜索</dt>
+                    <dd>
+                        <div class="input-box js-input-box"><input name="sitequery" type="text" size="40" autocomplete="off" placeholder="例如：www.sogou.com"></div>
+                    </dd>
+                </dl>
+                <dl class="js-as-select" style="padding-top:16px">
+                    <dt>搜索词位于</dt>
+                    <dd>
+                        <a href="javascript:void(0);" class="xz">网页中任何地方</a>
+                        <ul>
+                            <li><a href="javascript:void(0);" data-value="0">网页中任何地方</a></li>
+                            <li><a href="javascript:void(0);" data-value="1">仅在标题中</a></li>
+                            <li><a href="javascript:void(0);" data-value="2">仅在正文中</a></li>
+                            <li><a href="javascript:void(0);" data-value="3">仅在网址中</a></li>
+                        </ul>
+                    </dd>
+                    <input type="hidden" name="located" value="0">
+                </dl>
+                <dl class="js-as-select" style="padding-top:16px">
+                    <dt>需要搜索的文件格式</dt>
+                    <dd >
+                        <a href="javascript:void(0);" class="xz">全部网页</a>
+                        <ul>
+                            <li><a href="javascript:void(0);" data-value="">全部网页</a></li>
+                            <li><a href="javascript:void(0);" data-value="doc">Microsoft Word (.doc)</a></li>
+                            <li><a href="javascript:void(0);" data-value="xls">Microsoft Excel (.xls)</a></li>
+                            <li><a href="javascript:void(0);" data-value="ppt">Microsoft Powerpoint (.ppt)</a></li>
+                            <li><a href="javascript:void(0);" data-value="pdf">Adobe Acrobat PDF (.pdf)</a></li>
+                            <li><a href="javascript:void(0);" data-value="rtf">RTF (.rtf)</a></li>
+                            <li><a href="javascript:void(0);" data-value="all">全部文档</a></li>
+                        </ul>
+                    </dd>
+                    <input type="hidden" name="filetype" value="">
+                </dl>
+                <dl>
+                    <dt>搜索结果排序方式</dt>
+                    <dd class="js-as-radio">
+                        <a uigs-id="adv_relevance-ranking" href="javascript:void(0);" data-value="off" class="dk-btn cur">按相关性排序</a>
+                        <a uigs-id="adv_time-sort" href="javascript:void(0);" data-value="on" class="dk-btn">按时间排序</a>
+                        <input type="hidden" name="tro" value="off">
+                    </dd>
+                </dl>
+                <p class="enter
